@@ -1,3 +1,9 @@
+# 青训营
+#### 队名 : 不要指望我们组
+#### 队号 : 6666
+#### 项目 : 基于 Nextjs 开发仿掘金站点
+
+# Git
 ### 1. 安装git :
 https://git-scm.com/downloads 中下载git安装包 或 QQ群文件中下载安装包
 ### 2. 配置git :
@@ -65,5 +71,5 @@ Fork此项目到自己GitHub仓库下
 
 5.提交
 
-### 7.(pull)拉取项目
+### 8.(pull)拉取项目
 `git pull`
