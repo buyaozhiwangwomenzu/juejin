@@ -56,5 +56,15 @@ Fork此项目到自己GitHub仓库下
 2. ` git commit -m "提交信息" `
 3. `git push`
 
+### 7.向团队仓库提交代码
+1.github进入Fork好的仓库下  
+2.点击 **Pull requests**  
+3.点击 **New pull request**  
+4.
+>Comparing changes  
+>团队仓库 分支 <-- 个人仓库 分支
+>
+5. 提交
+
 ### 7.(pull)拉取项目
 `git pull`
