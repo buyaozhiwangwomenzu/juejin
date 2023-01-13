@@ -1,5 +1,6 @@
-
-#### 2. 配置git :
+### 1. 安装git :
+https://git-scm.com/downloads 中下载git安装包 或 QQ群文件中下载安装包
+### 2. 配置git :
 `git config --global user.name "用户名"`  
 `git config --global user.email "邮箱"`  
 ### 3. 配置github ssh key
@@ -37,14 +38,23 @@ id_rsa  id_rsa.pub
 #### 第五步
 cmd命令行中输入  
 `ssh -T git@github.com`  
-观察输出信息是否成功
+观察输出信息是否成功  
 
----
 
-### (clone)克隆项目 :
-`git clone git@github.com:buyaozhiwangwomenzu/ourTeam.git`
 
-### (push)推送项目 :
+### 4. Fork 项目
+Fork此项目到自己GitHub仓库下  
+
+### 5. (clone)克隆项目到本地
+1.进入Fork好的仓库下  
+2.点击 `Code` 选择 `SSH` 复制  
+3.在本地创建一个文件夹  
+3.在创建的文件夹下 `git clone 复制的内容` 
+
+### 6.(push)推送项目 :
 1. ` git add . `
 2. ` git commit -m "提交信息" `
 3. `git push`
+
+### 7.(pull)拉取项目
+`git pull`
