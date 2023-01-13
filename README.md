@@ -62,8 +62,8 @@ Fork此项目到自己GitHub仓库下
 3.点击 **New pull request**  
 4.
 >Comparing changes  
->团队仓库 分支 <-- 个人仓库 分支
-
+>团队仓库 分支 <-- 个人仓库 分支  
+  
 5. 提交
 
 ### 7.(pull)拉取项目
